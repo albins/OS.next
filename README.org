@@ -1,1 +1,15 @@
+* Purpose
 This is as attempt at finally producing a usable desktop OS for my personal use.
+
+* Choice of technologies
+- OS: [[https://nixos.org/][NixOS]] (see [[https://github.com/albins/nixpkgs][my efforts to make packages]])
+- Desktop: Gnome (or Mate if I really have to, anything but the ugly german DE)
+
+* Long-term goals and priorities
+- Unit tests for system functionality
+- Freedom of /choice/ was the wrong freedom
+- Develop and test systems as, well, systems, not kernel plus packages
+- Declarative Is Good
+- Stability and maintainability over features
+- A good UI takes clever functionality every single time
+- The 70's are over
