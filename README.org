@@ -13,3 +13,4 @@ This is as attempt at finally producing a usable desktop OS for my personal use.
 - Stability and maintainability over features
 - A good UI takes clever functionality every single time
 - The 70's are over
+- Harmony of function and form – all programs should, where possible, look, feel and work similarly
